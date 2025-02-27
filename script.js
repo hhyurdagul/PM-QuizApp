@@ -3,6 +3,7 @@ const optionsContainer = document.getElementById('options');
 const feedbackContainer = document.getElementById('feedback');
 const explanationContainer = document.getElementById('explanation');
 const scoreContainer = document.getElementById('score');
+const questionCountContainer = document.getElementById('question-count');
 const optionButtons = document.querySelectorAll('.option');
 const nextButton = document.getElementById('next-button');
 const prevButton = document.getElementById('prev-button');
@@ -66,6 +67,7 @@ async function loadQuestions() {
 
 function displayQuestion() {
     if (currentQuestionIndex < questions.length) {
+        questionCountContainer.textContent = `Question: ${currentQuestionIndex + 1}/${questions.length}`;
         const currentQuestion = questions[currentQuestionIndex];
         questionContainer.textContent = currentQuestion.question;
         categoryContainer.textContent = currentQuestion.category;
