@@ -1,0 +1,898 @@
+{
+  "Fundamentals of Project Management": [
+    {
+      "question": "What is the primary goal of project management?",
+      "options": [
+        "A. To minimize costs at all expenses",
+        "B. To complete the project on time, within budget, and to scope",
+        "C. To maximize the project team's workload",
+        "D. To ignore stakeholder expectations and focus on the technical aspects"
+      ],
+      "correct_answer": "B",
+      "explanation": "Project management aims to balance the 'triple constraint' (or project management triangle) of time, cost, and scope. Meeting these within stakeholder expectations is the primary goal."
+    },
+    {
+      "question": "Which of the following is NOT typically considered a project constraint?",
+      "options": [
+        "A. Time",
+        "B. Cost",
+        "C. Quality",
+        "D. Team Morale"
+      ],
+      "correct_answer": "D",
+      "explanation": "While team morale is important, the core project constraints are typically defined as time, cost, and scope (often quality is implicitly within scope, or considered a fourth constraint). Team morale is a factor influencing success but not a constraint in the same fundamental way."
+    },
+    {
+      "question": "What is a 'stakeholder' in project management?",
+      "options": [
+        "A. Only the project manager and the client",
+        "B. Anyone who may be affected by or have an interest in the project",
+        "C. Only the people working directly on the project team",
+        "D.  Only the people who are funding the project"
+      ],
+      "correct_answer": "B",
+      "explanation": "Stakeholders are broad and include anyone impacted by the project, whether positively or negatively. This includes clients, project team members, management, end-users, suppliers, and even the community."
+    },
+    {
+      "question": "Which project management phase typically involves defining the project goals and objectives?",
+      "options": [
+        "A. Initiating",
+        "B. Planning",
+        "C. Executing",
+        "D. Closing"
+      ],
+      "correct_answer": "A",
+      "explanation": "The Initiating phase is where the project is formally authorized and the high-level goals, objectives, and scope are defined. Feasibility studies and project charters are often created in this phase."
+    },
+    {
+      "question": "What is the 'triple constraint' in project management?",
+      "options": [
+        "A. Scope, Quality, Resources",
+        "B. Time, Cost, Quality",
+        "C. Scope, Time, Cost",
+        "D. Resources, Risk, Communication"
+      ],
+      "correct_answer": "C",
+      "explanation": "The triple constraint, also known as the project management triangle, consists of Scope, Time, and Cost. These are the primary competing constraints that project managers must balance."
+    },
+    {
+      "question": "Which of the following is the BEST definition of a project?",
+      "options": [
+        "A. Routine day-to-day tasks of an organization",
+        "B. A temporary endeavor undertaken to create a unique product, service, or result",
+        "C. Ongoing operational work",
+        "D.  A collection of programs"
+      ],
+      "correct_answer": "B",
+      "explanation": "Projects are defined as temporary endeavors with a defined beginning and end, undertaken to create something unique. This differentiates them from ongoing operations."
+    },
+    {
+      "question": "What is the purpose of a Project Charter?",
+      "options": [
+        "A. To detail the project schedule",
+        "B. To formally authorize a project and document initial high-level requirements",
+        "C. To manage project risks",
+        "D. To track project expenses"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Project Charter is a crucial initiating document. It formally authorizes the project, defines the project manager's authority, and documents high-level scope, risks, and stakeholders."
+    },
+    {
+      "question": "Which of the following BEST describes a 'Program' in project management context?",
+      "options": [
+        "A. A single, small project",
+        "B. A group of related projects, managed in a coordinated way to obtain benefits not available from managing them individually",
+        "C.  A set of unrelated projects",
+        "D.  An operational task repeated regularly"
+      ],
+      "correct_answer": "B",
+      "explanation": "A Program is a collection of related projects managed together to achieve strategic benefits. Programs are larger in scope and longer-term than individual projects."
+    },
+    {
+      "question": "What is a 'Portfolio' in project management?",
+      "options": [
+        "A. A single, very large project",
+        "B. A collection of projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives",
+        "C. Only projects related to IT",
+        "D. A list of project risks"
+      ],
+      "correct_answer": "B",
+      "explanation": "A Portfolio is the highest level in project management hierarchy. It encompasses all projects, programs, and operations managed together to meet strategic business goals. The focus is on strategic alignment."
+    },
+    {
+      "question": "What is the primary role of a Project Management Office (PMO)?",
+      "options": [
+        "A. To manage individual projects directly",
+        "B. To provide support, standards, and guidance for project management within an organization",
+        "C. To execute all project tasks",
+        "D. To only track project budgets"
+      ],
+      "correct_answer": "B",
+      "explanation": "A PMO is a central organizational unit that standardizes project management practices and processes. It provides support, methodologies, training, and governance for projects across the organization."
+    },
+    {
+      "question": "Which of the following is a key characteristic of the 'Planning' process group in project management?",
+      "options": [
+        "A. Authorizing the project to begin",
+        "B. Defining and refining objectives, and planning the course of action to attain the objectives",
+        "C.  Directing and managing the work of the project",
+        "D.  Formalizing acceptance of the project deliverables"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Planning process group is where the project roadmap is created. It involves defining scope, developing schedules, creating budgets, and establishing management plans for various project aspects."
+    },
+    {
+      "question": "In which project phase is the majority of the project work typically carried out?",
+      "options": [
+        "A. Initiating",
+        "B. Planning",
+        "C. Executing",
+        "D. Closing"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Executing phase is where the project plan is put into action. This is when the team performs the work defined in the project management plan to create the project deliverables."
+    },
+    {
+      "question": "What is the purpose of the 'Monitoring and Controlling' process group?",
+      "options": [
+        "A. To start the project",
+        "B. To define the project scope",
+        "C. To track, review, and regulate the progress and performance of the project",
+        "D. To finalize the project deliverables"
+      ],
+      "correct_answer": "C",
+      "explanation": "Monitoring and Controlling is crucial for keeping the project on track. It involves tracking project performance, comparing it to the plan, identifying variances, and taking corrective actions."
+    },
+    {
+      "question": "What happens in the 'Closing' process group?",
+      "options": [
+        "A. The project team starts working on tasks",
+        "B. The project plan is created",
+        "C. The project is formally finalized, deliverables are accepted, and project resources are released",
+        "D. Risks are identified and analyzed"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Closing phase marks the official end of the project. It includes formal acceptance of deliverables by stakeholders, final project reporting, archiving project documents, and releasing project resources."
+    }
+  ],
+  "Agile Principles and Values": [
+    {
+      "question": "What is the core principle behind the Agile Manifesto?",
+      "options": [
+        "A. Following a plan rigidly",
+        "B. Responding to change over following a plan",
+        "C. Comprehensive documentation over working software",
+        "D. Contract negotiation over customer collaboration"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Agile Manifesto emphasizes 'Responding to change over following a plan' as one of its core values, highlighting adaptability as key to success in complex projects."
+    },
+    {
+      "question": "Which of the following is an Agile value?",
+      "options": [
+        "A. Processes and tools over individuals and interactions",
+        "B. Working software over comprehensive documentation",
+        "C. Contract negotiation over customer collaboration",
+        "D. Following a plan over responding to change"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile values 'Working software over comprehensive documentation'. While documentation has its place, Agile prioritizes delivering functional software that meets user needs."
+    },
+    {
+      "question": "What does 'Individuals and interactions over processes and tools' mean in Agile?",
+      "options": [
+        "A. Processes and tools are not important in Agile",
+        "B. Good processes and tools are less important than effective teamwork and communication",
+        "C.  Individuals should work in isolation to be more efficient",
+        "D. Processes should be strictly followed regardless of team dynamics"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile prioritizes the human element. Effective communication, collaboration, and skilled individuals are considered more crucial to success than rigid processes or specific tools."
+    },
+    {
+      "question": "What is the primary focus of Agile methodologies?",
+      "options": [
+        "A. Predictive planning and upfront design",
+        "B.  Flexibility, collaboration, and iterative development",
+        "C.  Strict adherence to detailed documentation",
+        "D.  Hierarchical project management structures"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile is built around the principles of flexibility to adapt to changing requirements, collaboration between team members and stakeholders, and iterative development with frequent feedback loops."
+    },
+    {
+      "question": "According to the Agile Manifesto, 'Customer collaboration over contract negotiation' means:",
+      "options": [
+        "A. Contracts are not needed in Agile projects",
+        "B.  Working closely with the customer to deliver value is more important than rigid contract terms",
+        "C.  Negotiating contracts is not the project manager's responsibility",
+        "D.  Customers should dictate every aspect of the project"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile emphasizes close, ongoing collaboration with the customer to ensure the product meets their evolving needs. While contracts are still important, the focus shifts to partnership and shared understanding over rigid contractual adherence."
+    },
+    {
+      "question": "What is the meaning of 'Working software is the primary measure of progress' in Agile?",
+      "options": [
+        "A. Documentation is unimportant in Agile",
+        "B.  Delivering functional software frequently and consistently demonstrates real progress",
+        "C.  Project plans are not necessary",
+        "D.  Only software projects can be Agile"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile prioritizes tangible results. Demonstrating working software at regular intervals is seen as the most reliable indicator of project progress, over metrics like documents completed or tasks started."
+    },
+    {
+      "question": "What does 'Welcome changing requirements, even late in development' imply in Agile?",
+      "options": [
+        "A.  Changes should be avoided at all costs",
+        "B.  Agile processes harness change for the customer's competitive advantage",
+        "C.  Changes are only accepted in the initial project phases",
+        "D.  Change management is not needed in Agile"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile embraces change as inevitable and potentially beneficial, especially in dynamic environments. Agile frameworks are designed to accommodate changing requirements throughout the project lifecycle to deliver maximum value."
+    },
+    {
+      "question": "Which of the following is NOT a principle behind the Agile Manifesto?",
+      "options": [
+        "A. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.",
+        "B. Working software is the primary measure of progress.",
+        "C. Business people and developers must work together daily throughout the project.",
+        "D.  Comprehensive documentation is more valuable than working software."
+      ],
+      "correct_answer": "D",
+      "explanation": "Option D directly contradicts the Agile Manifesto's value of 'Working software over comprehensive documentation.'  Agile prioritizes delivering value and functional software, not exhaustive documentation."
+    },
+    {
+      "question": "What is the 'Agile mindset' primarily about?",
+      "options": [
+        "A. Using specific Agile tools and techniques",
+        "B.  A set of attitudes, underpinned by the Agile values and principles, that guide decision-making",
+        "C.  Strictly following a defined Agile process",
+        "D.  Minimizing project documentation"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Agile mindset is more than just following processes. It's about internalizing the Agile values and principles to guide thinking, behavior, and decision-making within a project and team context. It's about adaptability, collaboration, and customer focus."
+    },
+    {
+      "question": "What does 'Simplicity--the art of maximizing the amount of work not done--is essential' mean in Agile?",
+      "options": [
+        "A.  Agile teams should avoid doing any unnecessary work",
+        "B.  Focus on delivering only the essential features and avoiding complexity",
+        "C.  Documentation should be kept to a minimum",
+        "D.  Planning should be as simple as possible"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile emphasizes efficiency and value delivery. 'Simplicity' in Agile means focusing on what truly adds value to the customer and avoiding unnecessary features, processes, or documentation that don't contribute directly to the product's success."
+    },
+    {
+      "question": "Which of the following best describes 'Iterative and Incremental' development in Agile?",
+      "options": [
+        "A.  Planning everything upfront and then executing sequentially",
+        "B.  Developing the entire product in one go, with all features at once",
+        "C.  Breaking down work into small increments that are developed iteratively and delivered frequently",
+        "D.  Only delivering the product at the very end of the project"
+      ],
+      "correct_answer": "C",
+      "explanation": "Agile uses an iterative and incremental approach. 'Iterative' means repeating a cycle of development (planning, design, build, test, review). 'Incremental' means delivering small, functional pieces of the product (increments) at each iteration, building value gradually and getting feedback frequently."
+    },
+    {
+      "question": "In Agile, 'Self-organizing teams' are encouraged because:",
+      "options": [
+        "A. They require less management oversight and reduce project manager workload",
+        "B. They are believed to be more creative, innovative, and productive",
+        "C. They can operate without any defined roles or responsibilities",
+        "D.  They eliminate the need for project planning"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile promotes self-organizing teams because they foster autonomy, ownership, and collaboration. Teams that can self-manage, make their own decisions, and take responsibility are often more engaged, innovative, and efficient."
+    },
+    {
+      "question": "What is the primary benefit of 'Frequent reflection and adjustment' in Agile?",
+      "options": [
+        "A. To ensure strict adherence to the initial plan",
+        "B. To continuously improve processes, practices, and team effectiveness",
+        "C. To reduce the need for upfront planning",
+        "D. To speed up the development process by skipping reviews"
+      ],
+      "correct_answer": "B",
+      "explanation": "Agile emphasizes continuous improvement. Regular reflection (like in Sprint Retrospectives) allows teams to inspect their processes, identify areas for improvement, and adapt their ways of working to become more effective over time."
+    },
+    {
+      "question": "Which of these statements BEST describes the Agile approach to documentation?",
+      "options": [
+        "A. Documentation should be as comprehensive as possible to ensure clarity and prevent misunderstandings.",
+        "B. Documentation is not needed in Agile.",
+        "C.  Agile favors 'working software over comprehensive documentation', focusing on 'just enough' documentation that supports development and understanding.",
+        "D.  Documentation is only created at the end of the project."
+      ],
+      "correct_answer": "C",
+      "explanation": "Agile advocates for 'just enough' documentation – enough to support development, communication, and future maintenance, but not excessive documentation that becomes a bottleneck or adds little value. The focus remains on delivering working software."
+    }
+  ],
+  "Scrum Framework": [
+    {
+      "question": "What is Scrum?",
+      "options": [
+        "A. A predictive project management methodology",
+        "B. A complete project management methodology covering all aspects of project management",
+        "C. A lightweight framework for Agile development, focused on iterative and incremental delivery",
+        "D. A set of strict rules and processes that must be followed exactly"
+      ],
+      "correct_answer": "C",
+      "explanation": "Scrum is a framework within Agile that focuses on iterative and incremental delivery. It's lightweight, meaning it provides a structure but is not overly prescriptive, allowing teams to adapt it to their needs."
+    },
+    {
+      "question": "Who is the Product Owner in Scrum?",
+      "options": [
+        "A. The person who manages the development team",
+        "B. The person responsible for the technical aspects of the product",
+        "C. The person responsible for maximizing the value of the product and managing the Product Backlog",
+        "D. The person who facilitates the Scrum process"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Product Owner is the voice of the customer and stakeholders. They define what needs to be built (Product Backlog) and prioritize it to maximize value."
+    },
+    {
+      "question": "What is the role of the Scrum Master?",
+      "options": [
+        "A. To assign tasks to the development team members",
+        "B. To manage the project budget and timeline",
+        "C. To facilitate the Scrum process and remove impediments for the Development Team",
+        "D. To define the product vision and strategy"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Scrum Master is a servant-leader who ensures the Scrum framework is understood and enacted. They help the team remove impediments and improve their Scrum practices."
+    },
+    {
+      "question": "What is a 'Sprint' in Scrum?",
+      "options": [
+        "A. A long phase in the project lifecycle (e.g., several months)",
+        "B. A time-boxed iteration, typically 2-4 weeks, where a 'Done', usable, and potentially releasable product Increment is created",
+        "C. The project planning phase",
+        "D. The product testing phase"
+      ],
+      "correct_answer": "B",
+      "explanation": "A Sprint is a core concept in Scrum. It's a short, fixed duration iteration (time-box) aimed at producing a valuable, working Increment of the product."
+    },
+    {
+      "question": "Which Scrum event is used for the Development Team to plan their work for the Sprint?",
+      "options": [
+        "A. Daily Scrum",
+        "B. Sprint Review",
+        "C. Sprint Retrospective",
+        "D. Sprint Planning"
+      ],
+      "correct_answer": "D",
+      "explanation": "Sprint Planning is where the entire Scrum Team collaborates to understand the Sprint Goal and select items from the Product Backlog to create the Sprint Backlog – the plan for the Sprint."
+    },
+    {
+      "question": "What is the purpose of the Daily Scrum?",
+      "options": [
+        "A. To report progress to stakeholders",
+        "B. To review the Increment with the Product Owner",
+        "C. To inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary",
+        "D. To plan the next Sprint"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Daily Scrum (or Daily Stand-up) is a short, daily event for the Development Team to synchronize activities and plan for the next 24 hours, focusing on progress towards the Sprint Goal."
+    },
+    {
+      "question": "What is the Sprint Review event for?",
+      "options": [
+        "A. To plan the work for the next Sprint",
+        "B. To inspect the Increment and adapt the Product Backlog if needed",
+        "C. To discuss what went well and what could be improved in the Sprint",
+        "D. To resolve conflicts within the Development Team"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Sprint Review is held at the end of the Sprint to present the Increment to stakeholders, gather feedback, and potentially adapt the Product Backlog based on the review."
+    },
+    {
+      "question": "What is the purpose of the Sprint Retrospective?",
+      "options": [
+        "A. To demonstrate the Increment to stakeholders",
+        "B. To plan the next Sprint",
+        "C. To inspect the Sprint and identify improvements for future Sprints",
+        "D. To assign tasks for the next Sprint"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Sprint Retrospective is a dedicated time for the Scrum Team to reflect on the past Sprint, identify what worked well, what didn't, and how they can improve their processes, tools, and relationships for future Sprints."
+    },
+    {
+      "question": "What is the ideal size of a Scrum Development Team according to the Scrum Guide?",
+      "options": [
+        "A. 3-5 people",
+        "B. 5-9 people",
+        "C. 10-15 people",
+        "D.  No specific size is recommended"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Scrum Guide suggests a Development Team size of 5-9 people. This size is small enough to remain nimble and large enough to complete significant work within a Sprint."
+    },
+    {
+      "question": "Which of the following is NOT a Scrum value?",
+      "options": [
+        "A. Courage",
+        "B. Focus",
+        "C. Transparency",
+        "D.  Perfection"
+      ],
+      "correct_answer": "D",
+      "explanation": "The five Scrum values are Commitment, Courage, Focus, Openness, and Respect. 'Perfection' is not a Scrum value; instead, Scrum emphasizes continuous improvement and delivering valuable increments iteratively."
+    },
+    {
+      "question": "What is the 'Product Backlog' in Scrum?",
+      "options": [
+        "A. A list of tasks for the current Sprint",
+        "B. A prioritized list of everything that might be needed in the product",
+        "C. A list of resolved bugs",
+        "D.  A Gantt chart for the project"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Product Backlog is a dynamic, ordered list of everything that is known to be needed in the product. It's the single source of requirements for any changes to be made to the product, and it is constantly evolving."
+    },
+    {
+      "question": "What is a 'Sprint Goal'?",
+      "options": [
+        "A. A detailed list of tasks for the Sprint",
+        "B. An objective set for the Sprint that can be met through the implementation of Product Backlog Items within the Sprint",
+        "C.  The budget for the Sprint",
+        "D.  The deadline for the Sprint"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Sprint Goal is a concise objective for the Sprint, a commitment by the Development Team. It provides focus and coherence to the Sprint and guides the Development Team in their work."
+    },
+    {
+      "question": "Who is responsible for creating the Sprint Backlog?",
+      "options": [
+        "A. The Product Owner",
+        "B. The Scrum Master",
+        "C. The Development Team",
+        "D.  The Project Manager"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Sprint Backlog is created by the Development Team. They decide how to achieve the Sprint Goal and what work they will do in the Sprint, planning and managing their own work."
+    },
+    {
+      "question": "What is the time-box for a Daily Scrum?",
+      "options": [
+        "A. 5 minutes",
+        "B. 15 minutes",
+        "C. 30 minutes",
+        "D.  1 hour"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Daily Scrum is time-boxed to 15 minutes. This ensures it remains brief and focused, enabling the Development Team to quickly synchronize and plan for the day."
+    },
+    {
+      "question": "Who is typically present at the Daily Scrum?",
+      "options": [
+        "A. The Product Owner and Scrum Master only",
+        "B.  Stakeholders and the Product Owner",
+        "C.  The Development Team",
+        "D.  The entire Scrum Team (Product Owner, Scrum Master, Development Team)"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Daily Scrum is primarily for the Development Team. While the Scrum Master might be present to ensure the event takes place, and the Product Owner might attend but often observes, the event is for the Development Team to plan their day's work."
+    },
+    {
+      "question": "What is the artifact inspected during the Sprint Review?",
+      "options": [
+        "A. The Sprint Backlog",
+        "B. The Product Backlog",
+        "C. The Increment",
+        "D.  The Sprint Goal"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Sprint Review is focused on inspecting the Increment – the working product functionality that the Development Team built during the Sprint. Stakeholders provide feedback on the Increment."
+    },
+    {
+      "question": "Who typically participates in the Sprint Review?",
+      "options": [
+        "A. Only the Development Team",
+        "B.  Only the Product Owner and Stakeholders",
+        "C.  The Scrum Team and key stakeholders",
+        "D.  Only the Scrum Master"
+      ],
+      "correct_answer": "C",
+      "explanation": "The Sprint Review involves the entire Scrum Team (Product Owner, Scrum Master, Development Team) and key stakeholders. This collaborative event is for inspecting the Increment and adapting the Product Backlog based on feedback and market conditions."
+    },
+    {
+      "question": "Who facilitates the Sprint Retrospective?",
+      "options": [
+        "A. The Product Owner",
+        "B. The Scrum Master",
+        "C. The Development Team",
+        "D. Stakeholders"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Scrum Master facilitates the Sprint Retrospective. They ensure the event is productive and time-boxed, and that the Scrum Team inspects itself and creates a plan for improvements to be enacted during the next Sprint."
+    }
+  ],
+  "Kanban Framework": [
+    {
+      "question": "Kanban is best described as:",
+      "options": [
+        "A. A time-boxed iterative framework",
+        "B. A flow-based system focused on visualizing workflow and limiting work in progress",
+        "C. A methodology that emphasizes comprehensive documentation",
+        "D. A project management approach that strictly defines roles and responsibilities upfront"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kanban focuses on managing flow. It uses visual boards (Kanban boards) to track work progress and limits Work In Progress (WIP) to improve efficiency and reduce bottlenecks."
+    },
+    {
+      "question": "Which of the following is a key practice in Kanban?",
+      "options": [
+        "A. Sprint Planning meetings",
+        "B. Daily Stand-ups with predefined questions",
+        "C. Limiting Work In Progress (WIP)",
+        "D. Time-boxed iterations"
+      ],
+      "correct_answer": "C",
+      "explanation": "Limiting WIP is central to Kanban. By restricting the amount of work in progress, Kanban systems aim to improve flow, reduce multitasking, and deliver value faster."
+    },
+    {
+      "question": "What is the primary goal of implementing Kanban?",
+      "options": [
+        "A. To create fixed-length Sprints",
+        "B. To improve flow and reduce waste in the workflow",
+        "C. To strictly define roles and responsibilities",
+        "D. To eliminate documentation"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kanban's main objective is to optimize workflow by visualizing it, managing flow, and limiting work in progress (WIP). This helps to identify bottlenecks and improve efficiency, reducing waste and lead times."
+    },
+    {
+      "question": "What is a 'Kanban board'?",
+      "options": [
+        "A. A budget tracking spreadsheet",
+        "B. A visual tool to manage and visualize workflow, typically using columns to represent stages of work",
+        "C. A document outlining project risks",
+        "D. A calendar showing project deadlines"
+      ],
+      "correct_answer": "B",
+      "explanation": "A Kanban board is a central visual element in Kanban. It uses columns (like 'To Do', 'In Progress', 'Done') to represent the workflow stages and cards to represent work items, making the flow of work transparent."
+    },
+    {
+      "question": "What does 'Limit Work in Progress (WIP)' mean in Kanban?",
+      "options": [
+        "A. Restricting the total hours a team can work in a week",
+        "B. Limiting the number of tasks that can be in progress at any one time in each stage of the workflow",
+        "C.  Reducing the scope of the project",
+        "D.  Delaying the start of new tasks until the end of the project"
+      ],
+      "correct_answer": "B",
+      "explanation": "Limiting WIP is a core practice in Kanban. It sets limits on the number of items in each workflow stage to improve focus, reduce multitasking, and prevent bottlenecks, ultimately enhancing flow and delivery speed."
+    },
+    {
+      "question": "Which metric is commonly used to measure flow in Kanban?",
+      "options": [
+        "A. Velocity (as used in Scrum)",
+        "B. Burn-down charts",
+        "C. Lead Time and Cycle Time",
+        "D. Story Points completed per Sprint"
+      ],
+      "correct_answer": "C",
+      "explanation": "Kanban focuses on flow-based metrics. 'Lead Time' (time from request to delivery) and 'Cycle Time' (time to complete a task within the workflow) are key metrics used to monitor and optimize flow in a Kanban system."
+    },
+    {
+      "question": "Is Kanban iterative or continuous flow system?",
+      "options": [
+        "A. Primarily iterative, like Scrum",
+        "B. Primarily a continuous flow system",
+        "C.  Strictly waterfall in nature",
+        "D.  Neither iterative nor continuous"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kanban is primarily a continuous flow system. Unlike Scrum's time-boxed iterations (Sprints), Kanban focuses on a continuous, ongoing flow of work through the workflow stages, adapting to changing priorities and demands in real-time."
+    },
+    {
+      "question": "Does Kanban prescribe specific roles like Scrum (e.g., Product Owner, Scrum Master)?",
+      "options": [
+        "A. Yes, Kanban has the same roles as Scrum.",
+        "B. No, Kanban typically does not prescribe specific roles, and roles are often defined based on existing job functions.",
+        "C.  Kanban mandates more roles than Scrum.",
+        "D.  Kanban roles are very strictly defined and cannot be adapted."
+      ],
+      "correct_answer": "B",
+      "explanation": "Kanban is less prescriptive about roles than Scrum. It often starts with existing roles and responsibilities within a team or organization and can evolve them as needed. Kanban focuses more on process improvement and flow, rather than predefined roles."
+    },
+    {
+      "question": "What is a 'pull system' in the context of Kanban?",
+      "options": [
+        "A. Work is 'pushed' to team members by a manager",
+        "B. Work is 'pulled' into the next stage of the workflow when capacity is available",
+        "C.  Work is only started when all requirements are fully documented",
+        "D.  Work is pulled from a predefined schedule, regardless of team capacity"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kanban operates as a 'pull system'. It means that work is only moved to the next stage of the workflow when there is capacity available in that stage. This pull mechanism helps to control WIP and optimize flow, preventing bottlenecks and overburdening team members."
+    },
+    {
+      "question": "Are estimations mandatory in Kanban?",
+      "options": [
+        "A. Yes, estimations are always required in Kanban for planning.",
+        "B. No, estimations are optional in Kanban and depend on the team's needs.",
+        "C.  Estimations must be very precise in Kanban.",
+        "D.  Kanban uses story point estimations like Scrum."
+      ],
+      "correct_answer": "B",
+      "explanation": "Estimations are not mandatory in Kanban. While some teams may find estimations useful for forecasting or prioritization, Kanban allows for flexibility. Teams can choose to estimate or not, based on their context and needs. Many Kanban teams track flow metrics instead of relying heavily on estimations."
+    },
+    {
+      "question": "Which of the following is a benefit of visualizing workflow in Kanban?",
+      "options": [
+        "A. It automatically solves all project problems.",
+        "B. It makes the process transparent, identifies bottlenecks, and improves communication.",
+        "C.  It eliminates the need for team meetings.",
+        "D.  It strictly enforces deadlines."
+      ],
+      "correct_answer": "B",
+      "explanation": "Visualizing the workflow using a Kanban board brings transparency, making it easier to understand the process, identify bottlenecks, see where work is stuck, and improve communication within the team and with stakeholders. This transparency is key to continuous improvement in Kanban."
+    },
+    {
+      "question": "Can Kanban and Scrum be used together?",
+      "options": [
+        "A. No, they are mutually exclusive methodologies.",
+        "B. Yes, often organizations use 'Scrumban', a hybrid approach that combines elements of both frameworks.",
+        "C.  Only Kanban is considered truly Agile, not Scrum.",
+        "D.  Scrum is always superior to Kanban."
+      ],
+      "correct_answer": "B",
+      "explanation": "Yes, Kanban and Scrum can be combined. 'Scrumban' is a popular hybrid approach where teams may start with Scrum and then incorporate Kanban practices to visualize workflow and limit WIP, or vice versa, tailoring their approach to their specific needs and context."
+    }
+  ],
+  "Project Scope Management": [
+    {
+      "question": "What is the purpose of 'Collect Requirements' process in Project Scope Management?",
+      "options": [
+        "A. To define the budget for the project",
+        "B. To document and manage stakeholder needs and requirements to meet the project objectives",
+        "C. To create the project schedule",
+        "D. To identify project risks"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Collect Requirements' is about defining and documenting what stakeholders need and expect from the project. This forms the basis of the project scope and ensures the project delivers what is truly required."
+    },
+    {
+      "question": "What is a 'Scope Statement'?",
+      "options": [
+        "A. A detailed breakdown of project tasks",
+        "B. A document that describes the project deliverables and the work required to create those deliverables",
+        "C.  The project budget document",
+        "D.  A list of project stakeholders"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Scope Statement defines the project boundaries, deliverables, assumptions, and constraints in detail. It's a key document for managing scope throughout the project lifecycle and preventing scope creep."
+    },
+    {
+      "question": "What is the primary output of the 'Define Scope' process?",
+      "options": [
+        "A. Requirements Documentation",
+        "B. Work Breakdown Structure (WBS)",
+        "C. Scope Statement",
+        "D. Project Charter"
+      ],
+      "correct_answer": "C",
+      "explanation": "The 'Define Scope' process, after collecting requirements, results in the Scope Statement. This document elaborates on the project scope and is a crucial input for creating the WBS."
+    },
+    {
+      "question": "What is the 'Validate Scope' process about?",
+      "options": [
+        "A. Verifying the project budget",
+        "B.  Formalizing acceptance of the completed project deliverables by stakeholders",
+        "C.  Validating the project schedule",
+        "D.  Verifying the project team's performance"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Validate Scope' is focused on acceptance. It's the process of formalizing stakeholder acceptance of the completed project deliverables, ensuring they meet the defined scope and quality criteria."
+    },
+    {
+      "question": "What is the main purpose of the 'Control Scope' process?",
+      "options": [
+        "A. To plan the project scope initially",
+        "B. To ensure that only approved scope changes are implemented and to manage scope creep",
+        "C. To define the Work Breakdown Structure",
+        "D. To collect project requirements"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Control Scope' is about managing changes to the project scope. It ensures that any scope changes are properly reviewed, approved, and incorporated into the project, while also managing uncontrolled scope expansion (scope creep)."
+    }
+  ],
+  "Project Schedule Management": [
+    {
+      "question": "What is the purpose of 'Define Activities' process in Project Schedule Management?",
+      "options": [
+        "A. To estimate the cost of project tasks",
+        "B. To identify and document the specific actions to be performed to produce the project deliverables",
+        "C. To sequence project activities",
+        "D. To develop the project schedule"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Define Activities' involves breaking down the work packages from the WBS into smaller, manageable activities that represent the actual work that needs to be done to produce the project deliverables."
+    },
+    {
+      "question": "What is 'Sequencing Activities' about in schedule management?",
+      "options": [
+        "A. Estimating the duration of activities",
+        "B. Identifying and documenting dependencies among the project activities",
+        "C.  Assigning resources to activities",
+        "D.  Controlling the project schedule"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Sequence Activities' is about determining the logical order of project activities and documenting dependencies (like Finish-to-Start, Start-to-Start, etc.). This sequencing is crucial for developing a realistic project schedule."
+    },
+    {
+      "question": "What is a 'Project Schedule Network Diagram'?",
+      "options": [
+        "A. A budget allocation chart",
+        "B. A visual representation of the project activities and their logical relationships (dependencies)",
+        "C.  A risk register",
+        "D.  A stakeholder engagement plan"
+      ],
+      "correct_answer": "B",
+      "explanation": "A Project Schedule Network Diagram visually depicts the sequence and dependencies of project activities. It's a key input for schedule development and analysis, often using techniques like CPM (Critical Path Method)."
+    },
+    {
+      "question": "What is 'Estimating Activity Durations' process?",
+      "options": [
+        "A. Estimating the cost of activities",
+        "B.  Predicting the number of work periods needed to complete individual activities",
+        "C.  Assigning resources to activities",
+        "D.  Sequencing project activities"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Estimate Activity Durations' is about forecasting how long each activity will take to complete. Accurate duration estimates are essential for creating a realistic and achievable project schedule."
+    },
+    {
+      "question": "What is the 'Critical Path Method (CPM)' used for in project schedule management?",
+      "options": [
+        "A. To estimate project costs",
+        "B. To calculate the shortest possible project duration and identify critical activities",
+        "C.  To manage project risks",
+        "D.  To improve team communication"
+      ],
+      "correct_answer": "B",
+      "explanation": "CPM is a technique used to determine the longest path of planned activities that must be completed on time for the project to finish on schedule. Activities on the critical path are 'critical' because any delay in them directly impacts the project completion date."
+    },
+    {
+      "question": "What is 'Schedule Baseline'?",
+      "options": [
+        "A. The initial project schedule before any changes",
+        "B. The approved version of a schedule that is used as a basis for comparison to actual results",
+        "C. A list of project activities without durations",
+        "D. A risk management plan"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Schedule Baseline is the approved, fixed project schedule that serves as a benchmark for monitoring and controlling schedule performance. Any deviations from the baseline require formal change management."
+    }
+  ],
+  "Project Cost Management": [
+    {
+      "question": "What is the 'Estimate Costs' process in Project Cost Management?",
+      "options": [
+        "A. To allocate budget to project activities",
+        "B. To develop an approximation of the monetary resources needed to complete project activities",
+        "C. To control project costs",
+        "D. To plan how costs will be managed"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Estimate Costs' involves developing an approximation of the costs of resources needed to complete each project activity. Accurate cost estimates are essential for budgeting and cost control."
+    },
+    {
+      "question": "What is 'Determine Budget' process about?",
+      "options": [
+        "A. Estimating individual activity costs",
+        "B. Aggregating the estimated costs of individual activities or work packages to establish an authorized cost baseline",
+        "C. Controlling project costs",
+        "D. Planning cost management processes"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Determine Budget' is the process of aggregating all the estimated costs of individual activities or work packages to create a total project budget or cost baseline. This baseline is used for tracking and controlling project expenses."
+    },
+    {
+      "question": "What is 'Cost Baseline'?",
+      "options": [
+        "A. The initial cost estimate before project initiation",
+        "B. The approved budget that will be used to compare actual expenditures",
+        "C. A list of project costs without categorization",
+        "D. A risk management budget"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Cost Baseline is the approved budget for the project, broken down by time period (e.g., month, quarter). It's used as a reference point to measure and manage actual project costs and identify variances."
+    },
+    {
+      "question": "What is 'Control Costs' process in Project Cost Management?",
+      "options": [
+        "A. Planning how costs will be estimated",
+        "B. Influencing the factors that create cost variances and controlling changes to the project budget",
+        "C. Estimating project costs initially",
+        "D. Determining the total project budget"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Control Costs' is about monitoring project expenditures, managing changes to the cost baseline, and ensuring that cost overruns are minimized. It involves tracking actual costs against the planned budget and taking corrective actions."
+    },
+    {
+      "question": "What is 'Earned Value Management (EVM)'?",
+      "options": [
+        "A. A technique for estimating project costs",
+        "B. A methodology to measure project performance by integrating scope, schedule, and cost data",
+        "C. A risk assessment technique",
+        "D. A communication management tool"
+      ],
+      "correct_answer": "B",
+      "explanation": "Earned Value Management (EVM) is a powerful project performance measurement technique that integrates scope, schedule, and cost data. It provides metrics like Earned Value (EV), Planned Value (PV), and Actual Cost (AC) to assess project progress and performance against the plan."
+    }
+  ],
+  "Project Risk Management": [
+    {
+      "question": "What is 'Identify Risks' process in Project Risk Management?",
+      "options": [
+        "A. To plan risk responses",
+        "B. To determine which risks might affect the project and documenting their characteristics",
+        "C. To analyze identified risks qualitatively",
+        "D. To control project risks"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Identify Risks' is the first step in risk management. It's about systematically finding and documenting potential risks (events or conditions) that could positively or negatively impact the project objectives."
+    },
+    {
+      "question": "What is 'Perform Qualitative Risk Analysis' about?",
+      "options": [
+        "A.  Numerically analyzing the effect of identified risks on overall project objectives",
+        "B.  Prioritizing risks for further analysis or action by assessing and combining their probability of occurrence and impact",
+        "C.  Planning risk responses",
+        "D.  Controlling project risks"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Perform Qualitative Risk Analysis' involves prioritizing risks based on their probability and impact. This allows the project team to focus on the most significant risks and allocate resources effectively. It is often a subjective assessment."
+    },
+    {
+      "question": "What is 'Perform Quantitative Risk Analysis'?",
+      "options": [
+        "A.  Subjectively assessing the probability and impact of risks",
+        "B.  Numerically analyzing the effect of identified risks on overall project objectives, often using techniques like Monte Carlo simulation",
+        "C.  Developing risk response strategies",
+        "D.  Monitoring and controlling risks"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Perform Quantitative Risk Analysis' is a more detailed, often numerical, analysis of the highest priority risks from qualitative analysis. It uses techniques like Monte Carlo simulation, decision tree analysis, etc., to quantify the potential impact of risks on project objectives (e.g., cost, schedule)."
+    },
+    {
+      "question": "What is the purpose of 'Plan Risk Responses' process?",
+      "options": [
+        "A. To identify project risks",
+        "B. To develop options and actions to enhance opportunities and reduce threats to project objectives",
+        "C. To analyze risks qualitatively",
+        "D. To control project risks"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Plan Risk Responses' involves developing strategies to deal with identified risks. These strategies can include risk avoidance, transference, mitigation, acceptance (for threats), and exploitation, enhancement, sharing, and acceptance (for opportunities)."
+    },
+    {
+      "question": "What is 'Control Risks' process about?",
+      "options": [
+        "A.  Identifying potential project risks",
+        "B.  Implementing risk response plans, tracking identified risks, monitoring residual risks, and identifying new risks",
+        "C.  Analyzing risks quantitatively",
+        "D.  Planning risk response strategies"
+      ],
+      "correct_answer": "B",
+      "explanation": "'Control Risks' is an ongoing process throughout the project. It involves executing risk response plans, tracking identified risks, monitoring residual risks (risks remaining after responses), and identifying new risks as the project progresses. It ensures risk management is active and adaptive."
+    },
+    {
+      "question": "What is a 'Risk Register'?",
+      "options": [
+        "A. A list of project costs",
+        "B. A document containing the results of risk management processes, often including identified risks, their analysis, and planned responses",
+        "C. A schedule of project activities",
+        "D. A stakeholder communication plan"
+      ],
+      "correct_answer": "B",
+      "explanation": "The Risk Register is a central document in risk management. It compiles information from risk management processes, including identified risks, their descriptions, categories, root causes, potential responses, owners, and status throughout the project lifecycle."
+    }
+  ]
+}

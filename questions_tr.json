@@ -1,0 +1,876 @@
+{
+    "Proje Yönetimi Temelleri": [
+        {
+            "question": "Proje yönetiminin temel amacı nedir?",
+            "options": [
+                "A. Her ne pahasına olursa olsun maliyetleri en aza indirmek",
+                "B. Projeyi zamanında, bütçe dahilinde ve kapsamına uygun olarak tamamlamak",
+                "C. Proje ekibinin iş yükünü en üst düzeye çıkarmak",
+                "D. Paydaş beklentilerini göz ardı etmek ve teknik yönlere odaklanmak"
+            ],
+            "correct_answer": "B",
+            "explanation": "Proje yönetimi, zaman, maliyet ve kapsam 'üçlü kısıtını' (veya proje yönetimi üçgenini) dengelemeyi amaçlar. Bunları paydaş beklentileri dahilinde karşılamak temel amaçtır."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi tipik olarak bir proje kısıtı olarak kabul edilmez?",
+            "options": [
+                "A. Zaman",
+                "B. Maliyet",
+                "C. Kalite",
+                "D. Ekip Morali"
+            ],
+            "correct_answer": "D",
+            "explanation": "Ekip morali önemli olsa da, temel proje kısıtları genellikle zaman, maliyet ve kapsam olarak tanımlanır (çoğu zaman kalite de örtük olarak kapsam içinde veya dördüncü bir kısıt olarak kabul edilir). Ekip morali başarıyı etkileyen bir faktördür, ancak aynı temel şekilde bir kısıt değildir."
+        },
+        {
+            "question": "Proje yönetiminde 'paydaş' nedir?",
+            "options": [
+                "A. Sadece proje yöneticisi ve müşteri",
+                "B. Projeden etkilenebilecek veya projeye ilgi duyabilecek herkes",
+                "C. Sadece doğrudan proje ekibinde çalışan kişiler",
+                "D. Sadece projeyi finanse eden kişiler"
+            ],
+            "correct_answer": "B",
+            "explanation": "Paydaşlar geniştir ve projeden olumlu veya olumsuz etkilenen herkesi içerir. Bu müşterileri, proje ekibi üyelerini, yönetimi, son kullanıcıları, tedarikçileri ve hatta topluluğu içerir."
+        },
+        {
+            "question": "Proje yönetiminin hangi aşaması tipik olarak proje hedeflerini ve amaçlarını tanımlamayı içerir?",
+            "options": [
+                "A. Başlatma",
+                "B. Planlama",
+                "C. Yürütme",
+                "D. Kapanış"
+            ],
+            "correct_answer": "A",
+            "explanation": "Başlatma aşaması, projenin resmi olarak yetkilendirildiği ve üst düzey hedeflerin, amaçların ve kapsamın tanımlandığı aşamadır. Fizibilite çalışmaları ve proje şartnameleri genellikle bu aşamada oluşturulur."
+        },
+        {
+            "question": "Proje yönetiminde 'üçlü kısıt' nedir?",
+            "options": [
+                "A. Kapsam, Kalite, Kaynaklar",
+                "B. Zaman, Maliyet, Kalite",
+                "C. Kapsam, Zaman, Maliyet",
+                "D. Kaynaklar, Risk, İletişim"
+            ],
+            "correct_answer": "C",
+            "explanation": "Üçlü kısıt, proje yönetimi üçgeni olarak da bilinir, Kapsam, Zaman ve Maliyet'ten oluşur. Bunlar proje yöneticilerinin dengelemesi gereken başlıca rekabet eden kısıtlardır."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi bir projenin EN İYİ tanımıdır?",
+            "options": [
+                "A. Bir kuruluşun rutin günlük görevleri",
+                "B. Eşsiz bir ürün, hizmet veya sonuç yaratmak için girişilen geçici bir çaba",
+                "C. Devam eden operasyonel iş",
+                "D. Bir program koleksiyonu"
+            ],
+            "correct_answer": "B",
+            "explanation": "Projeler, benzersiz bir şey yaratmak için girişilen, tanımlı bir başlangıç ve sona sahip geçici çabalar olarak tanımlanır. Bu, onları devam eden operasyonlardan ayırır."
+        },
+        {
+            "question": "Proje Şartnamesinin amacı nedir?",
+            "options": [
+                "A. Proje takvimini detaylandırmak",
+                "B. Bir projeyi resmen yetkilendirmek ve ilk üst düzey gereksinimleri belgelemek",
+                "C. Proje risklerini yönetmek",
+                "D. Proje giderlerini takip etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "Proje Şartnamesi önemli bir başlatma belgesidir. Projeyi resmen yetkilendirir, proje yöneticisinin yetkisini tanımlar ve üst düzey kapsamı, riskleri ve paydaşları belgeler."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi proje yönetimi bağlamında bir 'Programı' EN İYİ şekilde tanımlar?",
+            "options": [
+                "A. Tek, küçük bir proje",
+                "B. Ayrı ayrı yönetilmelerinden elde edilemeyecek faydalar elde etmek için koordineli bir şekilde yönetilen ilgili projeler grubu",
+                "C. Bir dizi ilgisiz proje",
+                "D. Düzenli olarak tekrarlanan operasyonel bir görev"
+            ],
+            "correct_answer": "B",
+            "explanation": "Program, stratejik faydalar elde etmek için birlikte yönetilen ilgili projelerden oluşan bir koleksiyondur. Programlar, bireysel projelerden daha büyük kapsamlı ve daha uzun vadelidir."
+        },
+        {
+            "question": "Proje yönetiminde 'Portföy' nedir?",
+            "options": [
+                "A. Tek, çok büyük bir proje",
+                "B. Stratejik hedeflere ulaşmak için bir grup olarak yönetilen projeler, programlar, yan portföyler ve operasyonlardan oluşan bir koleksiyon",
+                "C. Sadece BT ile ilgili projeler",
+                "D. Proje riskleri listesi"
+            ],
+            "correct_answer": "B",
+            "explanation": "Portföy, proje yönetimi hiyerarşisinde en yüksek düzeydir. Stratejik iş hedeflerine ulaşmak için birlikte yönetilen tüm projeleri, programları ve operasyonları kapsar. Odak noktası stratejik uyumdur."
+        },
+        {
+            "question": "Proje Yönetim Ofisi'nin (PMO) temel rolü nedir?",
+            "options": [
+                "A. Bireysel projeleri doğrudan yönetmek",
+                "B. Bir kuruluş içinde proje yönetimi için destek, standartlar ve rehberlik sağlamak",
+                "C. Tüm proje görevlerini yürütmek",
+                "D. Sadece proje bütçelerini takip etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "PMO, proje yönetimi uygulamalarını ve süreçlerini standartlaştıran merkezi bir organizasyonel birimdir. Kuruluş genelindeki projeler için destek, metodolojiler, eğitim ve yönetişim sağlar."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi proje yönetiminde 'Planlama' süreç grubunun temel bir özelliğidir?",
+            "options": [
+                "A. Projenin başlamasını yetkilendirmek",
+                "B. Amaçları tanımlamak ve iyileştirmek ve amaçlara ulaşmak için hareket tarzını planlamak",
+                "C. Proje çalışmalarını yönlendirmek ve yönetmek",
+                "D. Proje teslimatlarının kabulünü resmileştirmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "Planlama süreç grubu, proje yol haritasının oluşturulduğu yerdir. Kapsamı tanımlamayı, takvimler geliştirmeyi, bütçeler oluşturmayı ve çeşitli proje yönleri için yönetim planları oluşturmayı içerir."
+        },
+        {
+            "question": "Proje çalışmalarının çoğunluğu tipik olarak hangi proje aşamasında gerçekleştirilir?",
+            "options": [
+                "A. Başlatma",
+                "B. Planlama",
+                "C. Yürütme",
+                "D. Kapanış"
+            ],
+            "correct_answer": "C",
+            "explanation": "Yürütme aşaması, proje planının uygulamaya konulduğu yerdir. Ekibin proje teslimatlarını oluşturmak için proje yönetim planında tanımlanan işi yaptığı zamandır."
+        },
+        {
+            "question": "'İzleme ve Kontrol' süreç grubunun amacı nedir?",
+            "options": [
+                "A. Projeyi başlatmak",
+                "B. Proje kapsamını tanımlamak",
+                "C. Projenin ilerlemesini ve performansını izlemek, gözden geçirmek ve düzenlemek",
+                "D. Proje teslimatlarını sonuçlandırmak"
+            ],
+            "correct_answer": "C",
+            "explanation": "İzleme ve Kontrol, projeyi yolda tutmak için çok önemlidir. Proje performansını izlemeyi, planla karşılaştırmayı, varyansları tanımlamayı ve düzeltici eylemler almayı içerir."
+        },
+        {
+            "question": "'Kapanış' süreç grubunda ne olur?",
+            "options": [
+                "A. Proje ekibi görevler üzerinde çalışmaya başlar",
+                "B. Proje planı oluşturulur",
+                "C. Proje resmen sonuçlandırılır, teslimatlar kabul edilir ve proje kaynakları serbest bırakılır",
+                "D. Riskler belirlenir ve analiz edilir"
+            ],
+            "correct_answer": "C",
+            "explanation": "Kapanış aşaması projenin resmi sonunu işaret eder. Paydaşlar tarafından teslimatların resmi kabulünü, nihai proje raporlamasını, proje belgelerinin arşivlenmesini ve proje kaynaklarının serbest bırakılmasını içerir."
+        }
+    ],
+    "Çevik (Agile) İlkeler ve Değerler": [
+        {
+            "question": "Çevik Manifesto'ya göre, 'Sözleşme müzakeresi yerine müşteri işbirliği' ne anlama gelir?",
+            "options": [
+                "A. Çevik projelerde sözleşmelere gerek yoktur",
+                "B. Değer sunmak için müşteriyle yakın çalışmak, katı sözleşme şartlarından daha önemlidir",
+                "C. Sözleşme müzakeresi proje yöneticisinin sorumluluğu değildir",
+                "D. Müşteriler projenin her yönünü dikte etmelidir"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik, ürünün sürekli gelişen ihtiyaçlarını karşıladığından emin olmak için müşteriyle yakın, devam eden işbirliğini vurgular. Sözleşmeler hala önemli olsa da, odak noktası katı sözleşmeye bağlılıktan ziyade ortaklığa ve ortak anlayışa kayar."
+        },
+        {
+            "question": "Çevikte 'Çalışan yazılım, ilerlemenin birincil ölçüsüdür' ne anlama gelir?",
+            "options": [
+                "A. Çevikte dokümantasyon önemsizdir",
+                "B. İşlevsel yazılımı sık sık ve tutarlı bir şekilde teslim etmek gerçek ilerlemeyi gösterir",
+                "C. Proje planları gerekli değildir",
+                "D. Sadece yazılım projeleri çevik olabilir"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik somut sonuçlara öncelik verir. Düzenli aralıklarla çalışan yazılımı göstermek, tamamlanan belgeler veya başlatılan görevler gibi ölçütlere göre proje ilerlemesinin en güvenilir göstergesi olarak görülür."
+        },
+        {
+            "question": "Çevikte 'Geliştirmenin son aşamalarında bile değişen gereksinimleri memnuniyetle karşılayın' ne anlama gelir?",
+            "options": [
+                "A. Değişikliklerden her ne pahasına olursa olsun kaçınılmalıdır",
+                "B. Çevik süreçler, müşterinin rekabet avantajı için değişimi kullanır",
+                "C. Değişiklikler yalnızca ilk proje aşamalarında kabul edilir",
+                "D. Çevikte değişiklik yönetimine gerek yoktur"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik, özellikle dinamik ortamlarda değişimi kaçınılmaz ve potansiyel olarak faydalı olarak benimser. Çevik çerçeveler, maksimum değer sunmak için proje yaşam döngüsü boyunca değişen gereksinimleri karşılamak üzere tasarlanmıştır."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi Çevik Manifesto'nun arkasındaki bir ilke DEĞİLDİR?",
+            "options": [
+                "A. En yüksek önceliğimiz, değerli yazılımın erken ve sürekli teslimi yoluyla müşteriyi memnun etmektir.",
+                "B. Çalışan yazılım, ilerlemenin birincil ölçüsüdür.",
+                "C. İş insanları ve geliştiriciler proje boyunca günlük olarak birlikte çalışmalıdır.",
+                "D. Kapsamlı dokümantasyon, çalışan yazılımdan daha değerlidir."
+            ],
+            "correct_answer": "D",
+            "explanation": "D seçeneği, doğrudan Çevik Manifesto'nun 'Kapsamlı dokümantasyon yerine çalışan yazılım' değerine aykırıdır. Çevik, kapsamlı dokümantasyondan ziyade değer ve işlevsel yazılım sunmaya öncelik verir."
+        },
+        {
+            "question": "'Çevik zihniyet' öncelikle ne hakkındadır?",
+            "options": [
+                "A. Belirli Çevik araçları ve teknikleri kullanmak",
+                "B. Çevik değerler ve ilkelerle desteklenen, karar vermeye rehberlik eden bir dizi tutum",
+                "C. Tanımlanmış bir Çevik süreci kesinlikle takip etmek",
+                "D. Proje dokümantasyonunu en aza indirmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik zihniyet, sadece süreçleri takip etmekten daha fazlasıdır. Proje ve ekip bağlamında düşünmeyi, davranışı ve karar vermeyi yönlendirmek için Çevik değerleri ve ilkeleri içselleştirmekle ilgilidir. Uyarlanabilirlik, işbirliği ve müşteri odaklılık hakkındadır."
+        },
+        {
+            "question": "'Sadelik--yapılmayan iş miktarını en üst düzeye çıkarma sanatı--esastır' Çevikte ne anlama gelir?",
+            "options": [
+                "A. Çevik ekipler gereksiz iş yapmaktan kaçınmalıdır",
+                "B. Yalnızca temel özellikleri sunmaya ve karmaşıklıktan kaçınmaya odaklanın",
+                "C. Dokümantasyon en aza indirilmelidir",
+                "D. Planlama olabildiğince basit olmalıdır"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik verimliliği ve değer sunumunu vurgular. Çevikte 'Sadelik', müşteriye gerçekten değer katan şeylere odaklanmak ve ürünün başarısına doğrudan katkıda bulunmayan gereksiz özelliklerden, süreçlerden veya dokümantasyondan kaçınmak anlamına gelir."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi Çevikte 'Yinelemeli ve Artımlı' geliştirmeyi en iyi şekilde tanımlar?",
+            "options": [
+                "A. Her şeyi önceden planlamak ve ardından sıralı olarak yürütmek",
+                "B. Tüm ürünü bir seferde, tüm özellikleriyle birlikte geliştirmek",
+                "C. Çalışmayı yinelemeli olarak geliştirilen ve sık sık teslim edilen küçük artışlara bölmek",
+                "D. Ürünü yalnızca projenin en sonunda teslim etmek"
+            ],
+            "correct_answer": "C",
+            "explanation": "Çevik, yinelemeli ve artımlı bir yaklaşım kullanır. 'Yinelemeli', bir geliştirme döngüsünü (planlama, tasarım, oluşturma, test etme, gözden geçirme) tekrarlamak anlamına gelir. 'Artımlı', ürünün küçük, işlevsel parçalarını (artışlar) her yinelemede teslim etmek, değeri kademeli olarak oluşturmak ve sık sık geri bildirim almak anlamına gelir."
+        },
+        {
+            "question": "Çevikte, 'Kendini organize eden ekipler' teşvik edilir çünkü:",
+            "options": [
+                "A. Daha az yönetim gözetimi gerektirirler ve proje yöneticisi iş yükünü azaltırlar",
+                "B. Daha yaratıcı, yenilikçi ve üretken olduklarına inanılır",
+                "C. Tanımlanmış roller veya sorumluluklar olmadan çalışabilirler",
+                "D. Proje planlamasına olan ihtiyacı ortadan kaldırırlar"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik, özerkliği, sahiplenmeyi ve işbirliğini teşvik ettikleri için kendini organize eden ekipleri destekler. Kendini yönetebilen, kendi kararlarını verebilen ve sorumluluk alabilen ekipler genellikle daha ilgili, yenilikçi ve verimli olur."
+        },
+        {
+            "question": "Çevikte 'Sık sık düşünme ve ayarlamanın' temel faydası nedir?",
+            "options": [
+                "A. İlk plana sıkı sıkıya bağlı kalmayı sağlamak",
+                "B. Süreçleri, uygulamaları ve ekip etkinliğini sürekli iyileştirmek",
+                "C. Önceden planlama ihtiyacını azaltmak",
+                "D. İncelemeleri atlayarak geliştirme sürecini hızlandırmak"
+            ],
+            "correct_answer": "B",
+            "explanation": "Çevik sürekli iyileştirmeyi vurgular. Düzenli düşünme (Sprint Retrospektiflerinde olduğu gibi), ekiplerin süreçlerini incelemelerine, iyileştirme alanlarını belirlemelerine ve çalışma yöntemlerini zaman içinde daha etkili hale getirmek için uyarlamalarına olanak tanır."
+        },
+        {
+            "question": "Aşağıdaki ifadelerden hangisi Çevik'in dokümantasyon yaklaşımını EN İYİ şekilde tanımlar?",
+            "options": [
+                "A. Dokümantasyon, netliği sağlamak ve yanlış anlaşılmaları önlemek için olabildiğince kapsamlı olmalıdır.",
+                "B. Çevikte dokümantasyona gerek yoktur.",
+                "C. Çevik, geliştirme ve anlayışı destekleyen 'yeterli dokümantasyona' odaklanarak 'kapsamlı dokümantasyondan ziyade çalışan yazılımı' tercih eder.",
+                "D. Dokümantasyon yalnızca projenin sonunda oluşturulur."
+            ],
+            "correct_answer": "C",
+            "explanation": "Çevik, 'yeterli dokümantasyonu' savunur; geliştirme, iletişim ve gelecekteki bakımı desteklemek için yeterli, ancak darboğaz haline gelen veya çok az değer katan aşırı dokümantasyon değildir. Odak noktası çalışan yazılım sunmaya devam ediyor."
+        }
+    ],
+    "Scrum Çerçevesi": [
+        {
+            "question": "Scrum Kılavuzuna göre ideal Scrum Geliştirme Ekibi büyüklüğü nedir?",
+            "options": [
+                "A. 3-5 kişi",
+                "B. 5-9 kişi",
+                "C. 10-15 kişi",
+                "D. Belirli bir boyut önerilmez"
+            ],
+            "correct_answer": "B",
+            "explanation": "Scrum Kılavuzu, 5-9 kişilik bir Geliştirme Ekibi büyüklüğü önerir. Bu boyut, çevik kalacak kadar küçük ve bir Sprint içinde önemli işler tamamlayacak kadar büyüktür."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi bir Scrum değeri DEĞİLDİR?",
+            "options": [
+                "A. Cesaret",
+                "B. Odaklanma",
+                "C. Şeffaflık",
+                "D. Mükemmellik"
+            ],
+            "correct_answer": "D",
+            "explanation": "Beş Scrum değeri Bağlılık, Cesaret, Odaklanma, Açıklık ve Saygıdır. 'Mükemmellik' bir Scrum değeri değildir; bunun yerine Scrum, sürekli iyileştirmeyi ve değerli artışları yinelemeli olarak sunmayı vurgular."
+        },
+        {
+            "question": "Scrum'da 'Ürün Biriktirme Listesi' nedir?",
+            "options": [
+                "A. Mevcut Sprint için görevler listesi",
+                "B. Üründe ihtiyaç duyulabilecek her şeyin önceliklendirilmiş listesi",
+                "C. Çözülen hataların listesi",
+                "D. Proje için bir Gantt şeması"
+            ],
+            "correct_answer": "B",
+            "explanation": "Ürün Biriktirme Listesi, üründe ihtiyaç duyulduğu bilinen her şeyin dinamik, sıralı bir listesidir. Üründe yapılacak herhangi bir değişiklik için tek gereksinim kaynağıdır ve sürekli olarak gelişmektedir."
+        },
+        {
+            "question": "'Sprint Hedefi' nedir?",
+            "options": [
+                "A. Sprint için ayrıntılı görevler listesi",
+                "B. Sprint içinde Ürün Biriktirme Listesi Öğelerinin uygulanması yoluyla karşılanabilecek Sprint için belirlenen bir hedef",
+                "C. Sprint için bütçe",
+                "D. Sprint için son tarih"
+            ],
+            "correct_answer": "B",
+            "explanation": "Sprint Hedefi, Sprint için özlü bir amaç, Geliştirme Ekibinin bir taahhüdüdür. Sprint'e odak ve tutarlılık sağlar ve Geliştirme Ekibine çalışmalarında rehberlik eder."
+        },
+        {
+            "question": "Sprint Biriktirme Listesini oluşturmaktan kim sorumludur?",
+            "options": [
+                "A. Ürün Sahibi",
+                "B. Scrum Master",
+                "C. Geliştirme Ekibi",
+                "D. Proje Yöneticisi"
+            ],
+            "correct_answer": "C",
+            "explanation": "Sprint Biriktirme Listesi Geliştirme Ekibi tarafından oluşturulur. Sprint Hedefine nasıl ulaşacaklarına ve Sprint'te ne iş yapacaklarına, kendi çalışmalarını planlayıp yöneterek karar verirler."
+        },
+        {
+            "question": "Günlük Scrum için süre kutusu nedir?",
+            "options": [
+                "A. 5 dakika",
+                "B. 15 dakika",
+                "C. 30 dakika",
+                "D. 1 saat"
+            ],
+            "correct_answer": "B",
+            "explanation": "Günlük Scrum 15 dakika ile sınırlıdır. Bu, kısa ve odaklı kalmasını sağlar ve Geliştirme Ekibinin günlük olarak senkronize olmasına ve planlama yapmasına olanak tanır."
+        },
+        {
+            "question": "Günlük Scrum'da tipik olarak kimler bulunur?",
+            "options": [
+                "A. Sadece Ürün Sahibi ve Scrum Master",
+                "B. Paydaşlar ve Ürün Sahibi",
+                "C. Geliştirme Ekibi",
+                "D. Tüm Scrum Ekibi (Ürün Sahibi, Scrum Master, Geliştirme Ekibi)"
+            ],
+            "correct_answer": "C",
+            "explanation": "Günlük Scrum öncelikle Geliştirme Ekibi içindir. Scrum Master etkinliğin gerçekleşmesini sağlamak için mevcut olabilse ve Ürün Sahibi katılabilecek olsa da ancak genellikle gözlem yapar, etkinlik Geliştirme Ekibinin günlük çalışmalarını planlaması içindir."
+        },
+        {
+            "question": "Sprint İncelemesi sırasında hangi eser incelenir?",
+            "options": [
+                "A. Sprint Biriktirme Listesi",
+                "B. Ürün Biriktirme Listesi",
+                "C. Artış",
+                "D. Sprint Hedefi"
+            ],
+            "correct_answer": "C",
+            "explanation": "Sprint İncelemesi, Artışı - Geliştirme Ekibinin Sprint sırasında oluşturduğu çalışan ürün işlevselliğini - incelemeye odaklanır. Paydaşlar Artış hakkında geri bildirim sağlar."
+        },
+        {
+            "question": "Sprint İncelemesine tipik olarak kimler katılır?",
+            "options": [
+                "A. Yalnızca Geliştirme Ekibi",
+                "B. Yalnızca Ürün Sahibi ve Paydaşlar",
+                "C. Scrum Ekibi ve önemli paydaşlar",
+                "D. Yalnızca Scrum Master"
+            ],
+            "correct_answer": "C",
+            "explanation": "Sprint İncelemesi tüm Scrum Ekibini (Ürün Sahibi, Scrum Master, Geliştirme Ekibi) ve önemli paydaşları içerir. Bu işbirlikçi etkinlik, Artışı incelemek ve Ürün Biriktirme Listesini geri bildirim ve piyasa koşullarına göre uyarlamak içindir."
+        },
+        {
+            "question": "Sprint Retrospektifini kim kolaylaştırır?",
+            "options": [
+                "A. Ürün Sahibi",
+                "B. Scrum Master",
+                "C. Geliştirme Ekibi",
+                "D. Paydaşlar"
+            ],
+            "correct_answer": "B",
+            "explanation": "Scrum Master, Sprint Retrospektifini kolaylaştırır. Etkinliğin verimli ve zamanında yapılmasını sağlar ve Scrum Ekibinin kendisini incelemesini ve bir sonraki Sprint sırasında yürürlüğe konulacak iyileştirmeler için bir plan oluşturmasını sağlar."
+        },
+        {
+            "question": "Scrum Kılavuzuna göre ideal Scrum Geliştirme Ekibi büyüklüğü nedir?",
+            "options": [
+                "A. 3-5 kişi",
+                "B. 5-9 kişi",
+                "C. 10-15 kişi",
+                "D. Belirli bir boyut önerilmez"
+            ],
+            "correct_answer": "B",
+            "explanation": "Scrum Kılavuzu, 5-9 kişilik bir Geliştirme Ekibi büyüklüğü önerir. Bu boyut, çevik kalacak kadar küçük ve bir Sprint içinde önemli işler tamamlayacak kadar büyüktür."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi bir Scrum değeri DEĞİLDİR?",
+            "options": [
+                "A. Cesaret",
+                "B. Odaklanma",
+                "C. Şeffaflık",
+                "D. Mükemmellik"
+            ],
+            "correct_answer": "D",
+            "explanation": "Beş Scrum değeri Bağlılık, Cesaret, Odaklanma, Açıklık ve Saygıdır. 'Mükemmellik' bir Scrum değeri değildir; bunun yerine Scrum, sürekli iyileştirmeyi ve değerli artışları yinelemeli olarak sunmayı vurgular."
+        },
+        {
+            "question": "Scrum'da 'Ürün Biriktirme Listesi' nedir?",
+            "options": [
+                "A. Mevcut Sprint için görevler listesi",
+                "B. Üründe ihtiyaç duyulabilecek her şeyin önceliklendirilmiş listesi",
+                "C. Çözülen hataların listesi",
+                "D. Proje için bir Gantt şeması"
+            ],
+            "correct_answer": "B",
+            "explanation": "Ürün Biriktirme Listesi, üründe ihtiyaç duyulduğu bilinen her şeyin dinamik, sıralı bir listesidir. Üründe yapılacak herhangi bir değişiklik için tek gereksinim kaynağıdır ve sürekli olarak gelişmektedir."
+        },
+        {
+            "question": "'Sprint Hedefi' nedir?",
+            "options": [
+                "A. Sprint için ayrıntılı görevler listesi",
+                "B. Sprint içinde Ürün Biriktirme Listesi Öğelerinin uygulanması yoluyla karşılanabilecek Sprint için belirlenen bir hedef",
+                "C. Sprint için bütçe",
+                "D. Sprint için son tarih"
+            ],
+            "correct_answer": "B",
+            "explanation": "Sprint Hedefi, Sprint için özlü bir amaç, Geliştirme Ekibinin bir taahhüdüdür. Sprint'e odak ve tutarlılık sağlar ve Geliştirme Ekibine çalışmalarında rehberlik eder."
+        },
+        {
+            "question": "Sprint Biriktirme Listesini oluşturmaktan kim sorumludur?",
+            "options": [
+                "A. Ürün Sahibi",
+                "B. Scrum Master",
+                "C. Geliştirme Ekibi",
+                "D. Proje Yöneticisi"
+            ],
+            "correct_answer": "C",
+            "explanation": "Sprint Biriktirme Listesi Geliştirme Ekibi tarafından oluşturulur. Sprint Hedefine nasıl ulaşacaklarına ve Sprint'te ne iş yapacaklarına, kendi çalışmalarını planlayıp yöneterek karar verirler."
+        },
+        {
+            "question": "Günlük Scrum için süre kutusu nedir?",
+            "options": [
+                "A. 5 dakika",
+                "B. 15 dakika",
+                "C. 30 dakika",
+                "D. 1 saat"
+            ],
+            "correct_answer": "B",
+            "explanation": "Günlük Scrum 15 dakika ile sınırlıdır. Bu, kısa ve odaklı kalmasını sağlar ve Geliştirme Ekibinin günlük olarak senkronize olmasına ve planlama yapmasına olanak tanır."
+        },
+        {
+            "question": "Günlük Scrum'da tipik olarak kimler bulunur?",
+            "options": [
+                "A. Ürün Sahibi ve Scrum Master only",
+                "B. Paydaşlar ve Ürün Sahibi",
+                "C. Geliştirme Ekibi",
+                "D. Tüm Scrum Ekibi (Ürün Sahibi, Scrum Master, Geliştirme Ekibi)"
+            ],
+            "correct_answer": "C",
+            "explanation": "Günlük Scrum öncelikle Geliştirme Ekibi içindir. Scrum Master etkinliğin gerçekleşmesini sağlamak için mevcut olabilse ve Ürün Sahibi katılabilecek olsa da ancak genellikle gözlem yapar, etkinlik Geliştirme Ekibinin günlük çalışmalarını planlaması içindir."
+        },
+        {
+            "question": "Sprint İncelemesi sırasında hangi eser incelenir?",
+            "options": [
+                "A. Sprint Biriktirme Listesi",
+                "B. Ürün Biriktirme Listesi",
+                "C. Artış",
+                "D. Sprint Hedefi"
+            ],
+            "correct_answer": "C",
+            "explanation": "Sprint İncelemesi, Artışı - Geliştirme Ekibinin Sprint sırasında oluşturduğu çalışan ürün işlevselliğini - incelemeye odaklanır. Paydaşlar Artış hakkında geri bildirim sağlar."
+        },
+        {
+            "question": "Sprint İncelemesine tipik olarak kimler katılır?",
+            "options": [
+                "A. Yalnızca Geliştirme Ekibi",
+                "B. Yalnızca Ürün Sahibi ve Paydaşlar",
+                "C. Scrum Ekibi ve önemli paydaşlar",
+                "D. Yalnızca Scrum Master"
+            ],
+            "correct_answer": "C",
+            "explanation": "Sprint İncelemesi tüm Scrum Ekibini (Ürün Sahibi, Scrum Master, Geliştirme Ekibi) ve önemli paydaşları içerir. Bu işbirlikçi etkinlik, Artışı incelemek ve Ürün Biriktirme Listesini geri bildirim ve piyasa koşullarına göre uyarlamak içindir."
+        },
+        {
+            "question": "Sprint Retrospektifini kim kolaylaştırır?",
+            "options": [
+                "A. Ürün Sahibi",
+                "B. Scrum Master",
+                "C. Geliştirme Ekibi",
+                "D. Paydaşlar"
+            ],
+            "correct_answer": "B",
+            "explanation": "Scrum Master, Sprint Retrospektifini kolaylaştırır. Etkinliğin verimli ve zamanında yapılmasını sağlar ve Scrum Ekibinin kendisini incelemesini ve bir sonraki Sprint sırasında yürürlüğe konulacak iyileştirmeler için bir plan oluşturmasını sağlar."
+        }
+    ],
+    "Kanban Çerçevesi": [
+        {
+            "question": "Kanban en iyi nasıl tanımlanır:",
+            "options": [
+                "A. Zaman kutulu yinelemeli bir çerçeve",
+                "B. İş akışını görselleştirmeye ve devam eden işleri sınırlamaya odaklanan akış tabanlı bir sistem",
+                "C. Kapsamlı dokümantasyonu vurgulayan bir metodoloji",
+                "D. Rolleri ve sorumlulukları önceden kesinlikle tanımlayan bir proje yönetimi yaklaşımı"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kanban akışı yönetmeye odaklanır. İş ilerlemesini izlemek için görsel panolar (Kanban panoları) kullanır ve verimliliği artırmak ve darboğazları azaltmak için Devam Eden İşleri (WIP) sınırlar."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi Kanban'da temel bir uygulamadır?",
+            "options": [
+                "A. Sprint Planlama toplantıları",
+                "B. Önceden tanımlanmış sorularla günlük stand-up'lar",
+                "C. Devam Eden İşleri (WIP) Sınırlama",
+                "D. Zaman kutulu yinelemeler"
+            ],
+            "correct_answer": "C",
+            "explanation": "WIP'i sınırlamak Kanban'ın merkezinde yer alır. Devam eden iş miktarını kısıtlayarak, Kanban sistemleri akışı iyileştirmeyi, çoklu görev yapmayı azaltmayı ve değeri daha hızlı sunmayı amaçlar."
+        },
+        {
+            "question": "Kanban'ı uygulamanın temel amacı nedir?",
+            "options": [
+                "A. Sabit uzunluklu Sprintler oluşturmak",
+                "B. İş akışındaki akışı iyileştirmek ve israfı azaltmak",
+                "C. Rolleri ve sorumlulukları kesinlikle tanımlamak",
+                "D. Dokümantasyonu ortadan kaldırmak"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kanban'ın temel amacı, iş akışını görselleştirerek, akışı yöneterek ve devam eden işleri (WIP) sınırlayarak iş akışını optimize etmektir. Bu, darboğazları belirlemeye ve verimliliği artırmaya, israfı ve teslimat sürelerini azaltmaya yardımcı olur."
+        },
+        {
+            "question": "'Kanban panosu' nedir?",
+            "options": [
+                "A. Bir bütçe takip elektronik tablosu",
+                "B. Tipik olarak iş aşamalarını temsil etmek için sütunlar kullanan iş akışını yönetmek ve görselleştirmek için kullanılan görsel bir araç",
+                "C. Proje risklerini özetleyen bir belge",
+                "D. Proje son tarihlerini gösteren bir takvim"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kanban panosu, Kanban'da merkezi bir görsel öğedir. İş akışı aşamalarını temsil etmek için sütunları ('Yapılacaklar', 'Devam Ediyor', 'Tamamlandı' gibi) ve iş akışının şeffaf olmasını sağlayan iş öğelerini temsil etmek için kartları kullanır."
+        },
+        {
+            "question": "Kanban'da 'Devam Eden İşleri (WIP) Sınırlama' ne anlama gelir?",
+            "options": [
+                "A. Bir ekibin bir haftada çalışabileceği toplam saat sayısını kısıtlamak",
+                "B. İş akışının her aşamasında aynı anda devam edebilecek görev sayısını sınırlamak",
+                "C. Projenin kapsamını azaltmak",
+                "D. Projenin sonuna kadar yeni görevlerin başlatılmasını geciktirmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "WIP'i sınırlamak, Kanban'da temel bir uygulamadır. Odaklanmayı iyileştirmek, çoklu görev yapmayı azaltmak ve darboğazları önlemek ve nihayetinde akışı ve teslimat hızını artırmak için iş akışının her aşamasındaki öğe sayısına sınırlar koyar."
+        },
+        {
+            "question": "Kanban'da akışı ölçmek için yaygın olarak kullanılan ölçü nedir?",
+            "options": [
+                "A. Hız (Scrum'da kullanılan gibi)",
+                "B. Yakma çizelgeleri",
+                "C. Teslim Süresi ve Çevrim Süresi",
+                "D. Sprint başına tamamlanan Hikaye Puanları"
+            ],
+            "correct_answer": "C",
+            "explanation": "Kanban akış tabanlı ölçümlere odaklanır. 'Teslim Süresi' (istekten teslimata kadar geçen süre) ve 'Çevrim Süresi' (iş akışı içindeki bir görevi tamamlama süresi), bir Kanban sistemindeki akışı izlemek ve optimize etmek için kullanılan temel ölçümlerdir."
+        },
+        {
+            "question": "Kanban yinelemeli mi yoksa sürekli akış sistemi midir?",
+            "options": [
+                "A. Öncelikle Scrum gibi yinelemeli",
+                "B. Öncelikle sürekli bir akış sistemi",
+                "C. Doğası gereği kesinlikle şelale",
+                "D. Ne yinelemeli ne de sürekli"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kanban öncelikle sürekli bir akış sistemidir. Scrum'ın zaman kutulu yinelemelerinin (Sprintler) aksine, Kanban, değişen önceliklere ve taleplere gerçek zamanlı olarak uyum sağlayarak, iş akışı aşamalarından sürekli, devam eden bir iş akışına odaklanır."
+        },
+        {
+            "question": "Kanban, Scrum (örneğin, Ürün Sahibi, Scrum Master) gibi belirli rolleri öngörür mü?",
+            "options": [
+                "A. Evet, Kanban'ın Scrum ile aynı rolleri vardır.",
+                "B. Hayır, Kanban tipik olarak belirli rolleri öngörmez ve roller genellikle mevcut iş işlevlerine göre tanımlanır.",
+                "C. Kanban, Scrum'dan daha fazla rol gerektirir.",
+                "D. Kanban rolleri çok katı bir şekilde tanımlanmıştır ve uyarlanamaz."
+            ],
+            "correct_answer": "B",
+            "explanation": "Kanban roller konusunda Scrum'dan daha az kuralcıdır. Genellikle bir ekip veya kuruluş içindeki mevcut roller ve sorumluluklarla başlar ve gerektiğinde bunları geliştirebilir. Kanban, önceden tanımlanmış rollerden ziyade süreç iyileştirmeye ve akışa daha fazla odaklanır."
+        },
+        {
+            "question": "Kanban bağlamında 'çekme sistemi' nedir?",
+            "options": [
+                "A. İş, bir yönetici tarafından ekip üyelerine 'itilir'",
+                "B. Kapasite mevcut olduğunda iş, iş akışının bir sonraki aşamasına 'çekilir'",
+                "C. İş yalnızca tüm gereksinimler tamamen belgelendiğinde başlatılır",
+                "D. İş, ekip kapasitesinden bağımsız olarak önceden tanımlanmış bir takvimden çekilir"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kanban bir 'çekme sistemi' olarak çalışır. Bu, işin yalnızca o aşamada kapasite mevcut olduğunda iş akışının bir sonraki aşamasına taşındığı anlamına gelir. Bu çekme mekanizması, WIP'yi kontrol etmeye ve akışı optimize etmeye, darboğazları ve ekip üyelerini aşırı yüklemeyi önlemeye yardımcı olur."
+        },
+        {
+            "question": "Kanban'da tahminler zorunlu mudur?",
+            "options": [
+                "A. Evet, Kanban'da planlama için tahminler her zaman gereklidir.",
+                "B. Hayır, tahminler Kanban'da isteğe bağlıdır ve ekibin ihtiyaçlarına bağlıdır.",
+                "C. Kanban'da tahminler çok kesin olmalıdır.",
+                "D. Kanban, Scrum gibi hikaye puanı tahminlerini kullanır."
+            ],
+            "correct_answer": "B",
+            "explanation": "Tahminler Kanban'da zorunlu değildir. Bazı ekipler tahminleri tahmin veya önceliklendirme için yararlı bulsa da, Kanban esnekliğe izin verir. Ekipler bağlamlarına ve ihtiyaçlarına göre tahmin etmeyi veya etmemeyi seçebilirler. Birçok Kanban ekibi tahminlere aşırı derecede güvenmek yerine akış ölçümlerini izler."
+        },
+        {
+            "question": "Aşağıdakilerden hangisi Kanban'da iş akışını görselleştirmenin bir faydasıdır?",
+            "options": [
+                "A. Tüm proje sorunlarını otomatik olarak çözer.",
+                "B. Süreci şeffaf hale getirir, darboğazları belirler ve iletişimi geliştirir.",
+                "C. Ekip toplantılarına olan ihtiyacı ortadan kaldırır.",
+                "D. Son tarihleri kesinlikle uygular."
+            ],
+            "correct_answer": "B",
+            "explanation": "Bir Kanban panosu kullanarak iş akışını görselleştirmek şeffaflık sağlar, süreci anlamayı, darboğazları belirlemeyi, işin nerede takıldığını görmeyi ve ekip içinde ve paydaşlarla iletişimi iyileştirmeyi kolaylaştırır. Bu şeffaflık, Kanban'da sürekli iyileştirmenin anahtarıdır."
+        },
+        {
+            "question": "Kanban ve Scrum birlikte kullanılabilir mi?",
+            "options": [
+                "A. Hayır, bunlar birbirini dışlayan metodolojilerdir.",
+                "B. Evet, kuruluşlar genellikle her iki çerçevenin öğelerini birleştiren hibrit bir yaklaşım olan 'Scrumban'ı kullanır.",
+                "C. Yalnızca Kanban gerçekten Çevik olarak kabul edilir, Scrum değil.",
+                "D. Scrum her zaman Kanban'dan üstündür."
+            ],
+            "correct_answer": "B",
+            "explanation": "Evet, Kanban ve Scrum birleştirilebilir. 'Scrumban', ekiplerin Scrum ile başlayıp daha sonra iş akışını görselleştirmek ve WIP'yi sınırlamak için Kanban uygulamalarını dahil edebileceği veya tam tersi, yaklaşımlarını özel ihtiyaçlarına ve bağlamlarına göre uyarlayabileceği popüler bir hibrit yaklaşımdır."
+        }
+    ],
+    "Proje Kapsam Yönetimi": [
+        {
+            "question": "Proje Kapsam Yönetimi'nde 'Gereksinimleri Toplama' sürecinin amacı nedir?",
+            "options": [
+                "A. Proje için bütçeyi tanımlamak",
+                "B. Proje hedeflerini karşılamak için paydaş ihtiyaçlarını ve gereksinimlerini belgelemek ve yönetmek",
+                "C. Proje takvimini oluşturmak",
+                "D. Proje risklerini belirlemek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Gereksinimleri Toplama', paydaşların projeden neye ihtiyaç duyduğunu ve ne beklediğini tanımlamak ve belgelemekle ilgilidir. Bu, proje kapsamının temelini oluşturur ve projenin gerçekten gerekli olanı sunmasını sağlar."
+        },
+        {
+            "question": "'Kapsam Bildirimi' nedir?",
+            "options": [
+                "A. Proje görevlerinin ayrıntılı bir dökümü",
+                "B. Proje çıktılarını ve bu çıktıları oluşturmak için gereken işi tanımlayan bir belge",
+                "C. Proje bütçe belgesi",
+                "D. Proje paydaşları listesi"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kapsam Bildirimi, proje sınırlarını, çıktılarını, varsayımlarını ve kısıtlarını ayrıntılı olarak tanımlar. Proje yaşam döngüsü boyunca kapsamı yönetmek ve kapsam kaymasını önlemek için önemli bir belgedir."
+        },
+        {
+            "question": "'Kapsamı Tanımlama' sürecinin birincil çıktısı nedir?",
+            "options": [
+                "A. Gereksinimler Dokümantasyonu",
+                "B. İş Kırılım Yapısı (WBS)",
+                "C. Kapsam Bildirimi",
+                "D. Proje Şartnamesi"
+            ],
+            "correct_answer": "C",
+            "explanation": "'Kapsamı Tanımlama' süreci, gereksinimleri topladıktan sonra Kapsam Bildirimi ile sonuçlanır. Bu belge, proje kapsamını detaylandırır ve WBS oluşturmak için çok önemli bir girdidir."
+        },
+        {
+            "question": "'Kapsamı Doğrulama' süreci ne hakkındadır?",
+            "options": [
+                "A. Proje bütçesini doğrulamak",
+                "B. Tamamlanan proje teslimatlarının paydaşlar tarafından kabulünü resmileştirmek",
+                "C. Proje takvimini doğrulamak",
+                "D. Proje ekibinin performansını doğrulamak"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Kapsamı Doğrulama' kabule odaklanır. Tamamlanan proje teslimatlarının paydaş kabulünü resmileştirme sürecidir ve tanımlanan kapsam ve kalite kriterlerini karşıladıklarından emin olur."
+        },
+        {
+            "question": "'Kapsamı Kontrol Etme' sürecinin temel amacı nedir?",
+            "options": [
+                "A. Proje kapsamını başlangıçta planlamak",
+                "B. Yalnızca onaylanmış kapsam değişikliklerinin uygulandığından emin olmak ve kapsam kaymasını yönetmek",
+                "C. İş Kırılım Yapısını tanımlamak",
+                "D. Proje gereksinimlerini toplamak"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Kapsamı Kontrol Etme', proje kapsamındaki değişiklikleri yönetmekle ilgilidir. Herhangi bir kapsam değişikliğinin uygun şekilde gözden geçirildiğinden, onaylandığından ve projeye dahil edildiğinden emin olurken, kontrolsüz kapsam genişlemesini (kapsam kayması) de yönetir."
+        }
+    ],
+    "Proje Takvim Yönetimi": [
+        {
+            "question": "Proje Takvim Yönetimi'nde 'Faaliyetleri Tanımlama' sürecinin amacı nedir?",
+            "options": [
+                "A. Proje görevlerinin maliyetini tahmin etmek",
+                "B. Proje çıktılarını üretmek için gerçekleştirilecek belirli eylemleri belirlemek ve belgelemek",
+                "C. Proje faaliyetlerini sıralamak",
+                "D. Proje takvimini geliştirmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Faaliyetleri Tanımlama', WBS'deki iş paketlerini proje çıktılarını üretmek için yapılması gereken gerçek işi temsil eden daha küçük, yönetilebilir faaliyetlere ayırmayı içerir."
+        },
+        {
+            "question": "Takvim yönetiminde 'Faaliyetleri Sıralama' ne hakkındadır?",
+            "options": [
+                "A. Faaliyetlerin süresini tahmin etmek",
+                "B. Proje faaliyetleri arasındaki bağımlılıkları belirlemek ve belgelemek",
+                "C. Faaliyetlere kaynak atamak",
+                "D. Proje takvimini kontrol etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Faaliyetleri Sıralama', proje faaliyetlerinin mantıksal sırasını belirlemek ve bağımlılıkları (Bitişten Başlangıca, Başlangıçtan Başlangıca vb.) belgelemekle ilgilidir. Bu sıralama, gerçekçi bir proje takvimi geliştirmek için çok önemlidir."
+        },
+        {
+            "question": "'Proje Takvimi Ağ Diyagramı' nedir?",
+            "options": [
+                "A. Bir bütçe tahsisat şeması",
+                "B. Proje faaliyetlerinin ve mantıksal ilişkilerinin (bağımlılıklarının) görsel bir gösterimi",
+                "C. Bir risk kaydı",
+                "D. Bir paydaş etkileşim planı"
+            ],
+            "correct_answer": "B",
+            "explanation": "Bir Proje Takvimi Ağ Diyagramı, proje faaliyetlerinin sırasını ve bağımlılıklarını görsel olarak gösterir. Takvim geliştirme ve analizi için önemli bir girdidir, genellikle CPM (Kritik Yol Metodu) gibi teknikler kullanılarak."
+        },
+        {
+            "question": "'Faaliyet Sürelerini Tahmin Etme' süreci nedir?",
+            "options": [
+                "A. Faaliyetlerin maliyetini tahmin etmek",
+                "B. Bireysel faaliyetleri tamamlamak için gereken çalışma dönemlerinin sayısını tahmin etmek",
+                "C. Faaliyetlere kaynak atamak",
+                "D. Proje faaliyetlerini sıralamak"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Faaliyet Sürelerini Tahmin Etme', her bir faaliyetin tamamlanmasının ne kadar süreceğini tahmin etmekle ilgilidir. Doğru süre tahminleri, gerçekçi ve ulaşılabilir bir proje takvimi oluşturmak için gereklidir."
+        },
+        {
+            "question": "Proje takvim yönetiminde 'Kritik Yol Metodu (CPM)' ne için kullanılır?",
+            "options": [
+                "A. Proje maliyetlerini tahmin etmek",
+                "B. En kısa olası proje süresini hesaplamak ve kritik faaliyetleri belirlemek",
+                "C. Proje risklerini yönetmek",
+                "D. Ekip iletişimini iyileştirmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "CPM, projenin zamanında tamamlanması için zamanında tamamlanması gereken planlanan faaliyetlerin en uzun yolunu belirlemek için kullanılan bir tekniktir. Kritik yoldaki faaliyetler 'kritiktir' çünkü bunlardaki herhangi bir gecikme proje bitiş tarihini doğrudan etkiler."
+        },
+        {
+            "question": "'Takvim Temel Çizgisi' nedir?",
+            "options": [
+                "A. Herhangi bir değişiklikten önceki ilk proje takvimi",
+                "B. Gerçek sonuçlarla karşılaştırmak için temel olarak kullanılan onaylanmış takvim sürümü",
+                "C. Süreleri olmayan proje faaliyetleri listesi",
+                "D. Bir risk yönetim planı"
+            ],
+            "correct_answer": "B",
+            "explanation": "Takvim Temel Çizgisi, takvim performansını izlemek ve kontrol etmek için bir ölçüt olarak kullanılan onaylanmış, sabit proje takvimidir. Temel çizgiden herhangi bir sapma resmi değişiklik yönetimi gerektirir."
+        }
+    ],
+    "Proje Maliyet Yönetimi": [
+        {
+            "question": "Proje Maliyet Yönetimi'nde 'Maliyetleri Tahmin Etme' süreci nedir?",
+            "options": [
+                "A. Proje faaliyetlerine bütçe ayırmak",
+                "B. Proje faaliyetlerini tamamlamak için gereken parasal kaynakların bir yaklaşımını geliştirmek",
+                "C. Proje maliyetlerini kontrol etmek",
+                "D. Maliyetlerin nasıl yönetileceğini planlamak"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Maliyetleri Tahmin Etme', her proje faaliyetini tamamlamak için gereken kaynakların maliyetlerinin bir yaklaşımını geliştirmeyi içerir. Doğru maliyet tahminleri, bütçeleme ve maliyet kontrolü için gereklidir."
+        },
+        {
+            "question": "'Bütçeyi Belirleme' süreci ne hakkındadır?",
+            "options": [
+                "A. Bireysel faaliyet maliyetlerini tahmin etmek",
+                "B. Yetkilendirilmiş bir maliyet temel çizgisi oluşturmak için bireysel faaliyetlerin veya iş paketlerinin tahmini maliyetlerini toplamak",
+                "C. Proje maliyetlerini kontrol etmek",
+                "D. Maliyet yönetimi süreçlerini planlamak"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Bütçeyi Belirleme', toplam proje bütçesini veya maliyet temel çizgisini oluşturmak için bireysel faaliyetlerin veya iş paketlerinin tahmini maliyetlerinin toplamını çıkarma sürecidir. Bu temel çizgi, proje giderlerini izlemek ve kontrol etmek için kullanılır."
+        },
+        {
+            "question": "'Maliyet Temel Çizgisi' nedir?",
+            "options": [
+                "A. Proje başlatılmadan önceki ilk maliyet tahmini",
+                "B. Gerçek harcamaları karşılaştırmak için kullanılacak onaylanmış bütçe",
+                "C. Kategorizasyonu olmayan proje maliyetleri listesi",
+                "D. Bir risk yönetim bütçesi"
+            ],
+            "correct_answer": "B",
+            "explanation": "Maliyet Temel Çizgisi, projenin zaman dilimine göre (örneğin, ay, çeyrek) ayrılmış onaylanmış bütçesidir. Gerçek proje maliyetlerini ölçmek ve yönetmek ve varyansları belirlemek için bir referans noktası olarak kullanılır."
+        },
+        {
+            "question": "Proje Maliyet Yönetimi'nde 'Maliyetleri Kontrol Etme' süreci nedir?",
+            "options": [
+                "A. Maliyetlerin nasıl tahmin edileceğini planlamak",
+                "B. Maliyet varyansları yaratan faktörleri etkilemek ve proje bütçesindeki değişiklikleri kontrol etmek",
+                "C. Proje maliyetlerini başlangıçta tahmin etmek",
+                "D. Toplam proje bütçesini belirlemek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Maliyetleri Kontrol Etme', proje harcamalarını izlemek, maliyet temel çizgisindeki değişiklikleri yönetmek ve maliyet aşımının en aza indirilmesini sağlamakla ilgilidir. Planlanan bütçeye karşı gerçek maliyetleri izlemeyi ve düzeltici eylemler almayı içerir."
+        },
+        {
+            "question": "'Kazanılmış Değer Yönetimi (EVM)' nedir?",
+            "options": [
+                "A. Proje maliyetlerini tahmin etmek için bir teknik",
+                "B. Kapsam, takvim ve maliyet verilerini entegre ederek proje performansını ölçmek için bir metodoloji",
+                "C. Bir risk değerlendirme tekniği",
+                "D. Bir iletişim yönetim aracı"
+            ],
+            "correct_answer": "B",
+            "explanation": "Kazanılmış Değer Yönetimi (EVM), kapsam, takvim ve maliyet verilerini entegre eden güçlü bir proje performans ölçüm tekniğidir. Proje ilerlemesini ve planlanan performansı değerlendirmek için Kazanılmış Değer (EV), Planlanan Değer (PV) ve Gerçek Maliyet (AC) gibi ölçümler sağlar."
+        }
+    ],
+    "Proje Risk Yönetimi": [
+        {
+            "question": "Proje Risk Yönetimi'nde 'Riskleri Belirleme' süreci nedir?",
+            "options": [
+                "A. Risk yanıtlarını planlamak",
+                "B. Projeyi etkileyebilecek riskleri belirlemek ve özelliklerini belgelemek",
+                "C. Belirlenen riskleri nitel olarak analiz etmek",
+                "D. Proje risklerini kontrol etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Riskleri Belirleme', risk yönetiminde ilk adımdır. Proje hedeflerini olumlu veya olumsuz etkileyebilecek potansiyel riskleri (olaylar veya koşullar) sistematik olarak bulmak ve belgelemekle ilgilidir."
+        },
+        {
+            "question": "'Nitel Risk Analizi Gerçekleştirme' ne hakkındadır?",
+            "options": [
+                "A. Belirlenen risklerin genel proje hedefleri üzerindeki etkisini sayısal olarak analiz etmek",
+                "B. Oluşma olasılıklarını ve etkilerini değerlendirerek ve birleştirerek daha fazla analiz veya eylem için riskleri önceliklendirmek",
+                "C. Risk yanıtlarını planlamak",
+                "D. Proje risklerini kontrol etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Nitel Risk Analizi Gerçekleştirme', riskleri olasılıklarına ve etkilerine göre önceliklendirmeyi içerir. Bu, proje ekibinin en önemli risklere odaklanmasına ve kaynakları etkili bir şekilde tahsis etmesine olanak tanır. Genellikle subjektif bir değerlendirmedir."
+        },
+        {
+            "question": "'Nicel Risk Analizi Gerçekleştirme' nedir?",
+            "options": [
+                "A. Risklerin olasılığını ve etkisini subjektif olarak değerlendirmek",
+                "B. Genellikle Monte Carlo simülasyonu gibi teknikler kullanarak belirlenen risklerin genel proje hedefleri üzerindeki etkisini sayısal olarak analiz etmek",
+                "C. Risk yanıt stratejileri geliştirmek",
+                "D. Riskleri izlemek ve kontrol etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Nicel Risk Analizi Gerçekleştirme', nitel analizden en yüksek öncelikli risklerin daha ayrıntılı, genellikle sayısal bir analizidir. Risklerin proje hedefleri (örneğin, maliyet, takvim) üzerindeki potansiyel etkisini ölçmek için Monte Carlo simülasyonu, karar ağacı analizi vb. teknikleri kullanır."
+        },
+        {
+            "question": "'Risk Yanıtlarını Planlama' sürecinin amacı nedir?",
+            "options": [
+                "A. Proje risklerini belirlemek",
+                "B. Proje hedeflerine yönelik tehditleri azaltmak ve fırsatları artırmak için seçenekler ve eylemler geliştirmek",
+                "C. Riskleri nitel olarak analiz etmek",
+                "D. Proje risklerini kontrol etmek"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Risk Yanıtlarını Planlama', belirlenen risklerle başa çıkmak için stratejiler geliştirmeyi içerir. Bu stratejiler riskten kaçınma, transfer, hafifletme, kabul etme (tehditler için) ve sömürme, geliştirme, paylaşma ve kabul etme (fırsatlar için) içerebilir."
+        },
+        {
+            "question": "'Riskleri Kontrol Etme' süreci ne hakkındadır?",
+            "options": [
+                "A. Potansiyel proje risklerini belirlemek",
+                "B. Risk yanıt planlarını uygulamak, belirlenen riskleri izlemek, artık riskleri izlemek ve yeni riskleri belirlemek",
+                "C. Riskleri nicel olarak analiz etmek",
+                "D. Risk yanıt stratejileri planlamak"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Riskleri Kontrol Etme' proje boyunca devam eden bir süreçtir. Risk yanıt planlarını yürütmeyi, belirlenen riskleri izlemeyi, artık riskleri (yanıtlardan sonra kalan riskler) izlemeyi ve proje ilerledikçe yeni riskleri belirlemeyi içerir. Risk yönetiminin aktif ve uyarlanabilir olmasını sağlar."
+        },
+        {
+            "question": "'Risk Kaydı' nedir?",
+            "options": [
+                "A. Proje maliyetleri listesi",
+                "B. Genellikle belirlenen riskler, analizleri ve planlanan yanıtlar dahil olmak üzere risk yönetimi süreçlerinin sonuçlarını içeren bir belge",
+                "C. Proje faaliyetlerinin takvimi",
+                "D. Bir paydaş iletişim planı"
+            ],
+            "correct_answer": "B",
+            "explanation": "Risk Kaydı, risk yönetiminde merkezi bir belgedir. Belirlenen riskler, açıklamaları, kategorileri, temel nedenleri, potansiyel yanıtları, sahipleri ve proje yaşam döngüsü boyunca durumu dahil olmak üzere risk yönetimi süreçlerinden gelen bilgileri derler."
+        }
+    ]
+}

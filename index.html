@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Management Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Project Management Quiz</h1>
+
+        <label for="language-select">Language:</label>
+        <select id="language-select">
+            <option value="tr">Türkçe</option>
+            <option value="en">English</option>
+        </select>
+
+        <div id="question-container">
+            <h3 id="category">Category</h3>
+            <h2 id="question">Question</h2>
+            <div id="options">
+                <button class="option" id="A">Option A</button>
+                <button class="option" id="B">Option B</button>
+                <button class="option" id="C">Option C</button>
+                <button class="option" id="D">Option D</button>
+            </div>
+            <p id="feedback"></p>
+            <button id="next-button" disabled>Next</button>
+            <p id="score">Score: 0</p>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
